@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sklevzhic
 - 👀 I’m interested in React, Redux, Typescript
+- 📫 My portfolio - https://cv-sklevzhic.vercel.app/
 - 📫 How to reach me https://t.me/sklevzhic
 
 <!---
